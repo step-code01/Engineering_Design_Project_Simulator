@@ -8,8 +8,8 @@ Built using Python, NumPy, Matplotlib, and a fully interactive Gradio GUI.
 
 # Features:
 ## 1. Projectile Simulator
-  -No-drag + drag trajectories
-  -Comparison plot
+  -No-drag + drag trajectories <br>
+  -Comparison plot <br>
   -Adjustable: velocity, angle, mass, Cd, air density, diameter
   -Shows both drag & no-drag ranges
 
